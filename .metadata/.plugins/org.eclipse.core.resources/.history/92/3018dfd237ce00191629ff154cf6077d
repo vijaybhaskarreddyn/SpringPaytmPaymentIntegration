@@ -1,0 +1,5 @@
+package com.vijay.spring.paytm.api;
+
+public class PaytmDetails {
+
+}

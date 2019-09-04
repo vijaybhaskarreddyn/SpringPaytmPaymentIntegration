@@ -1,0 +1,5 @@
+INDEX VERSION 1.131
+D:\VijayWorkSpace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2395460768.index
+\SpringMVCUser\src\main\resources
+D:\VijayWorkSpace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\69247615.index
+\SpringMVCUser\src\main\java
