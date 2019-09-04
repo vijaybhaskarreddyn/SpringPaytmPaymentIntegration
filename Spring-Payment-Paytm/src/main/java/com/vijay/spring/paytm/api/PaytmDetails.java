@@ -112,6 +112,7 @@ public class PaytmDetails {
 		return paytmUrl;
 	}
 
+//add some more comments on this model
 	/**
 	 * @param paytmUrl the paytmUrl to set
 	 */
